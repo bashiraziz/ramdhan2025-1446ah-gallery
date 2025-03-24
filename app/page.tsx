@@ -56,7 +56,7 @@ export default function Home() {
               }
             }}
           >
-            <h1 className="text-xl md:text-2xl">Ramadhan 2025-1446ah</h1>
+            <h1 className="text-xl md:text-2xl">Ramdhan2025-1446ah-gallery</h1>
           </div>
           <nav className="flex items-center gap-4 sm:gap-6">
             <button
